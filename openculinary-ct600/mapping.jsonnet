@@ -210,6 +210,7 @@
         ],
 
 	"current-account": [
+            "Cash",
             "Bank Accounts:Current Account"
         ],
 
@@ -331,6 +332,7 @@
         "current-assets": [
 	    "debtors",
 	    "vat-refund-due",
+	    "cash",
 	    "bank"
 	],
 

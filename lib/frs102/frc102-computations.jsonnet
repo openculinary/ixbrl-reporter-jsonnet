@@ -24,6 +24,8 @@ function(accts)
 
     accts.line("legal-fees", "Legal fees").in_year(),
 
+    accts.line("statutory-fees", "Statutory fees").in_year(),
+
     accts.line("bank-charges", "Bank charges").in_year(),
 
     accts.line("office", "Office costs").in_year(),

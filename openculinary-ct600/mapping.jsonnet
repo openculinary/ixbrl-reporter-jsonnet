@@ -169,6 +169,11 @@
 	    "Equity:Shareholdings"
         ],
 
+        "statutory-fees": [
+	    "Expenses:Other non-VAT expenses:Statutory fees:Companies House",
+	    "Expenses:Other non-VAT expenses:Statutory fees:Information Commissioner's Office"
+        ],
+
 	"corporation-tax-paid": [
 	    "Equity:Corporation Tax"
         ],
@@ -303,6 +308,7 @@
 	    "legal-fees",
 	    "office",
 	    "software",
+	    "statutory-fees",
 	    "subscriptions",
 	    "sundries",
 	    "telecoms",
@@ -493,6 +499,7 @@
 	    "legal-fees",
 	    "office",
 	    "software-expenses",
+	    "statutory-fees",
 	    "subscriptions-costs",
 	    "sundries",
 	    "telecoms",
@@ -625,6 +632,7 @@
 	    "legal-fees",
 	    "office",
 	    "software",
+	    "statutory-fees",
 	    "subscriptions",
 	    "sundries",
 	    "telecoms",

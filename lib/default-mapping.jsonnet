@@ -54,7 +54,7 @@
 	],
 
 	"legal-fees": [
-	    "Expenses:VAT Purchases:Legal Fees"
+	    "Expenses:VAT Purchases:Legal fees"
 	],
 
 	"bank-charges": [

@@ -17,6 +17,7 @@
 
 	office: [
 	    "Expenses:VAT Purchases:Workspace",
+	    "Expenses:VAT Purchases:Staff entertainment",
 	    "Expenses:VAT Purchases:Office"
 	],
 

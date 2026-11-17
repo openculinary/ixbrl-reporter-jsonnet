@@ -22,7 +22,7 @@ function(accts)
 
     accts.line("accountancy", "Accountancy services").in_year(),
 
-    accts.line("legal", "Legal fees").in_year(),
+    accts.line("legal-fees", "Legal fees").in_year(),
 
     accts.line("bank-charges", "Bank charges").in_year(),
 

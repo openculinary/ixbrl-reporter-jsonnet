@@ -16,9 +16,9 @@
 	],
 
 	office: [
-	    "Expenses:VAT Purchases:Workspace",
-	    "Expenses:VAT Purchases:Staff entertainment",
-	    "Expenses:VAT Purchases:Office"
+	    "Expenses:VAT Purchases:Workspace",  // location(s) to work from
+	    "Expenses:VAT Purchases:Staff entertainment",  // distinct from entertainment of clients
+	    "Expenses:VAT Purchases:Office"  // stationery, office supplies, books, etc
 	],
 
 	"software-expenses": [

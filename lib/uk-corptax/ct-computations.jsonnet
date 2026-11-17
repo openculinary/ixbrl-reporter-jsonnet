@@ -62,6 +62,10 @@ local fy2_rate = if std.objectHas(metadata, "tax")
 	.in_year()
 	.segment("expense-type", "administrative-expenses"),
 
+    accts.line("legal", "Legal fees")
+	.in_year()
+	.segment("expense-type", "administrative-expenses"),
+
     accts.line("subscriptions-costs", "Subscriptions")
 	.in_year()
 	.segment("expense-type", "administrative-expenses"),

@@ -53,6 +53,10 @@
 	    "Expenses:VAT Purchases:Accountant"
 	],
 
+	legal: [
+	    "Expenses:VAT Purchases:Legal Fees"
+	],
+
 	"bank-charges": [
 	    "Expenses:VAT Purchases:Bank Charges"
 	],
@@ -293,6 +297,7 @@
 	"other-charges": [
 	    "accountancy",
 	    "bank-charges",
+	    "legal",
 	    "office",
 	    "software",
 	    "subscriptions",
@@ -481,6 +486,7 @@
 	    "pensions",
 	    "accountancy",
 	    "bank-charges",
+	    "legal",
 	    "office",
 	    "software-expenses",
 	    "subscriptions-costs",
@@ -612,6 +618,7 @@
 	"other-operating-costs": [
 	    "accountancy",
 	    "bank-charges",
+	    "legal",
 	    "office",
 	    "software",
 	    "subscriptions",

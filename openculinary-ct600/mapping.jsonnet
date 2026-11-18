@@ -345,7 +345,6 @@
         "current-assets": [
 	    "debtors",
 	    "vat-refund-due",
-	    "cash",
 	    "bank"
 	],
 

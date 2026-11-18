@@ -74,6 +74,8 @@ function(accts)
 
     accts.line("vat-refund-due", "VAT Refund Due").at_end(),
 
+    accts.line("cash-on-hand", "Cash on hand").at_end(),
+
     accts.line("bank", "Bank").at_end(),
 
     accts.sum("current-assets", "Current Assets").at_end(),

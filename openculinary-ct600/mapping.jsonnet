@@ -116,6 +116,10 @@
 	    "Assets:VAT Repayments Due"
         ],
 
+	"cash-on-hand": [
+	    "Cash"
+        ],
+
 	bank: [
 	    "Bank Accounts"
         ],
@@ -345,6 +349,7 @@
         "current-assets": [
 	    "debtors",
 	    "vat-refund-due",
+	    "cash-on-hand",
 	    "bank"
 	],
 

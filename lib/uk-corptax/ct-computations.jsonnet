@@ -17,9 +17,14 @@ local fy2_rate = if std.objectHas(metadata, "tax")
     // FIXME: CT vs FRS definition
     accts.line("main-income", "Main income").in_year(),
 
-    accts.line("income", "Income from main trade")
+    accts.line("production-costs", "Production costs")
 	.in_year()
 	.segment("detailed-analysis", "item1")
+	.segment("expense-type", "cost-of-sales"),
+
+    accts.line("income", "Income from main trade")
+	.in_year()
+	.segment("detailed-analysis", "item2")
 	.segment("countries-regions", "UK"),
 
     accts.group("ct-turnover", "Turnover / revenue").in_year(),

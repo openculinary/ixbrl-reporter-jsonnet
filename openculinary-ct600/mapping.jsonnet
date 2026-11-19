@@ -7,6 +7,10 @@
 	    "Expenses:Emoluments:Employer's NICs"
 	],
 
+	"production-costs": [
+	    "Expenses:VAT Purchases:Production infrastructure"
+	],
+
 	income: [
 	    "Income"
 	],
@@ -65,6 +69,7 @@
 
 	// Accounts
 	"main-income": [
+	    "Expenses:VAT Purchases:Production infrastructure",
 	    "Income:Sales"
         ],
 
@@ -484,6 +489,7 @@
 	// FIXME: Accts vs CT
 
 	"ct-turnover": [
+	    "production-costs",
 	    "income"
 	],
 
